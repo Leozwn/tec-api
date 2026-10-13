@@ -1,0 +1,19 @@
+{
+  "name": "api-leo",
+  "version": "1.0.0",
+  "description": "API utilizando nodeJs, express e banco de dados MySQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leozwn/tec-api.git"
+  },
+  "author": "Leonardo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leozwn/tec-api/issues"
+  },
+  "homepage": "https://github.com/Leozwn/tec-api#readme"
+}
